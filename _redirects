@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://alina.netlify.com/* http://shresthalina.com.np/:splat 301!
