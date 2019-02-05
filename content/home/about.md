@@ -13,6 +13,7 @@ weight = 5
     "Machine Learning",
     "Artificial Intelligence",
     "Management",
+    "Web Development"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,9 +27,17 @@ weight = 5
   institution = "HSEB"
   year = 2012
  
+[[education.courses]]
+  course = "SLC"
+  institution = "Nepal Goverment"
+  year = 2010
+  
+ 
 +++
 
 # Biography
 
-Alena Shrestha is a Software Developer at Insight Workshop.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Alina Shrestha is a Software Developer at Insight Workshop.
+She has completed Bachelor in Computer Science and Information Technology from TU.
+Her interest includes WEB Development, Machine Learning, Database, Python.
+
