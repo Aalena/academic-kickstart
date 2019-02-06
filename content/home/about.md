@@ -35,9 +35,10 @@ weight = 5
  
 +++
 
-# Biography
+# About Me
 
-Alina Shrestha is a Software Developer at Insight Workshop.
-She has completed Bachelor in Computer Science and Information Technology from TU.
-Her interest includes WEB Development, Machine Learning, Database, Python.
+Hi, I am Alina Shrestha. I have completed my Bachelor in Computer Science and Information Technology from Patan Multiple Campus.
+I have been working as Software Developer at Insight Workshop for a year and half now.
+
+I believe technology is an essential part of human being. Knowledge of technology should be accessible to everyone in this world.
 
