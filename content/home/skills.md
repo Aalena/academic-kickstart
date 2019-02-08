@@ -30,13 +30,13 @@ weight = 7
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Database"
+  name = "Database Structure"
   description = "80%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "desktop"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Web Development"
+  description = "70%"
 
 +++
